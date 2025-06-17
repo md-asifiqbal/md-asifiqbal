@@ -1,44 +1,92 @@
-# HI👋
+# 👋 Hi, I'm **Md. Asif Iqbal**
+`🚀 Laravel Artisan | 🧠 Full-Stack Engineer | 🌍 ISP Tech Innovator`
 
-[![Twitter](https://img.shields.io/twitter/follow/MrPunyapal?label=Follow)](https://twitter.com/intent/follow?screen_name=MrPunyapal)
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MrPunyapal/)](https://www.linkedin.com/in/MrPunyapal/)
-![Profile Views](https://komarev.com/ghpvc/?username=mr-punyapal&label=👁️)
+[![Twitter](https://img.shields.io/twitter/follow/asif160627?label=Follow)](https://twitter.com/intent/follow?screen_name=asif160627)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-asif-iqbal-pust/)](https://www.linkedin.com/in/md-asif-iqbal-pust/)
+[![Facebook](https://img.shields.io/badge/-Follow-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/asif.ice.pust.160627/)](https://www.facebook.com/asif.ice.pust.160627/)
+![Profile Views](https://komarev.com/ghpvc/?username=md-asifiqbal&label=👁️)
 
-### Join Laravel community
-[![LaravelArtisans](https://img.shields.io/badge/LaravelArtisans-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&https://telegram.me/LaravelArtisans)](https://telegram.me/LaravelArtisans)
+---
 
-### Development Environment:
+### 💼 Software Engineer @ LinkStaff Co. Ltd., Tokyo 🇯🇵  
+> 8+ years of development experience | Building ISP automation, ERP, LMS, and real-time web apps.
 
-[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MrPunyapal)
-[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/MrPunyapal)
-[![COREI7](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/MrPunyapal)
-[![NVIDIA2060](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/MrPunyapal)
+---
 
+### 🧠 What I Do
 
-<a href="https://github-contributor-stats.vercel.app/api?username=MrPunyapal&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MrPunyapal&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=MrPunyapal&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" target="_blank">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=MrPunyapal&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" />
-</a>
-<a href="https://streak-stats.demolab.com?user=MrPunyapal&theme=transparent&hide_border=true" target="_blank">
-<img height=200  src="https://streak-stats.demolab.com?user=MrPunyapal&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" />
-</a>
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=MrPunyapal&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPunyapal&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
-</a>
+- 🔧 Build robust systems with **Laravel**, **Vue.js**, **React**, **Next.js**, **Nuxt.js**
+- 🌐 Develop enterprise-grade **ISP Billing, HRM, ERP** and **Access Control systems**
+- 💬 Automate **WhatsApp Marketing** and **Notification APIs**
+- 🔒 Implement server security, SNMP, Radius integrations, MikroTik, ZKTeco access control
+- 💡 Blend tech with creativity — from OCR to Human Activity Recognition using CNN/RNN
 
-<!--
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Featured Projects
+
+#### 🔌 SaltSync ISP ERP  
+Comprehensive billing, employee, network, and access control system.  
+Tech: Laravel, Vue.js, Radius, MikroTik, SNMP, ZKTeco  
+🔗 [Private project]
+
+#### 📰 NewsNow24  
+A real-time multilingual news media portal with scheduling and modern UX  
+🔗 [newsnow24.com](https://newsnow24.com)
+
+#### 💼 Salary Management (PUST)  
+University-grade salary & finance tracker  
+🔗 [salary.pust.ac.bd](https://salary.pust.ac.bd)
+
+#### 🎓 OCMS – Online Classroom  
+Google Classroom clone for Bangladeshi universities  
+🔗 [ocms.ajmerigroup.com](https://ocms.ajmerigroup.com)
+
+#### 🛒 E-Bazarnow  
+Geo-based online marketplace  
+🔗 [ebazarnow.com](https://ebazarnow.com)
+
+---
+
+### 🛠️ My Dev Arsenal
+
+**Languages:**  
+`PHP`, `Python`, `JavaScript`, `C/C++`, `MATLAB`, `Java`
+
+**Frameworks:**  
+`Laravel`, `Vue.js`, `React`, `Next.js`, `Nuxt.js`, `Vuetify`, `Tailwind`
+
+**Tools & DevOps:**  
+`Docker`, `Git`, `Bitbucket`, `CI/CD`, `Nginx`, `Apache`, `Linux`
+
+**Databases:**  
+`MySQL`, `Redis`, `PDO`, `REST APIs`
+
+**Servers & Cloud:**  
+`AWS`, `DigitalOcean`, `G-Suite`, `Namecheap`, `Microsoft 365`
+
+---
+
+### 📚 Education
+
+- 🎓 B.Sc. in Information and Communication Engineering – **PUST** (CGPA 3.67, 2nd Position)  
+- 🎓 M.Sc. (Pursuing) – PUST  
+- 🧪 Research on `Image Captioning`, `Human Activity Recognition`, `Arduino Robotics`
+
+---
+
+### 🌐 Languages
+
+| Language    | Proficiency         |
+|-------------|---------------------|
+| Bengali     | Native              |
+| English     | Fluent (written/spoken) |
+| Japanese    | JLPT N3 Certified (N2 Ongoing) |
+
+---
+
+### 🔎 Let's Connect, Collaborate, or Just Say Hi!
+
+- 📬 Email: [asif.ice.pust@gmail.com](mailto:asif.ice.pust@gmail.com)  
+- 🌐 Portfolio (Coming Soon)  
+- 💬 DM for Freelance, Open Source, or Consultation
