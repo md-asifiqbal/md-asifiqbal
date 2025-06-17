@@ -8,7 +8,7 @@
 
 ---
 
-### 💼 Software Engineer @ LinkStaff Co. Ltd., Tokyo 🇯🇵  
+### 💼 Team Lead @ LogicArray,Khulna  
 > 8+ years of development experience | Building ISP automation, ERP, LMS, and real-time web apps.
 
 ---
@@ -34,9 +34,6 @@ Tech: Laravel, Vue.js, Radius, MikroTik, SNMP, ZKTeco
 A real-time multilingual news media portal with scheduling and modern UX  
 🔗 [newsnow24.com](https://newsnow24.com)
 
-#### 💼 Salary Management (PUST)  
-University-grade salary & finance tracker  
-🔗 [salary.pust.ac.bd](https://salary.pust.ac.bd)
 
 #### 🎓 OCMS – Online Classroom  
 Google Classroom clone for Bangladeshi universities  
@@ -81,7 +78,7 @@ Geo-based online marketplace
 |-------------|---------------------|
 | Bengali     | Native              |
 | English     | Fluent (written/spoken) |
-| Japanese    | JLPT N3 Certified (N2 Ongoing) |
+| Japanese    | JLPT N3 Certified |
 
 ---
 
