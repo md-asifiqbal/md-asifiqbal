@@ -28,7 +28,7 @@
 #### 🔌 SaltSync ISP ERP  
 Comprehensive billing, employee, network, and access control system.  
 Tech: Laravel, Vue.js, Radius, MikroTik, SNMP, ZKTeco  
-🔗 [Private project]
+🔗 [saltsync.com](https://www.saltsync.com)
 
 #### 📰 NewsNow24  
 A real-time multilingual news media portal with scheduling and modern UX  
