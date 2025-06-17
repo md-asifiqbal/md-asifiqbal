@@ -8,7 +8,7 @@
 
 ---
 
-### 💼 Team Lead @ LogicArray,Khulna  
+### 💼 Team Lead @ LogicArray, Khulna,Bangladesh
 > 8+ years of development experience | Building ISP automation, ERP, LMS, and real-time web apps.
 
 ---
