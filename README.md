@@ -8,7 +8,7 @@
 
 I design and run distributed backend systems that serve real production load. As **Team Lead @ LogicArray** I architect two production platforms: **SaltSync** — a 10-microservice ISP automation & billing platform — and **9bx** — a multi-tenant SaaS business platform, HRM live in production.
 
-📍 Dhaka, Bangladesh · 🇯🇵 2 yrs remote with a Tokyo company (JLPT N3) · 💼 Open to remote backend/architect roles
+📍 Dhaka, Bangladesh · 🇯🇵 3 years of remote with a Tokyo company (JLPT N3) · 💼 Open to remote backend/architect roles
 
 ---
 
@@ -72,7 +72,7 @@ Real-time multilingual news portal — built at Esafe Technology, still live.
 |----------|-------------|
 | Bengali  | Native |
 | English  | Fluent (written/spoken) |
-| Japanese | JLPT N3 · 2 years of remote work with a Tokyo team |
+| Japanese | JLPT N3 · 3 years of remote work with a Tokyo team |
 
 ---
 
